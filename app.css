@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aqua;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.container {
+  width: 500px;
+}
+
+button {
+  display: inline-block;
+  /* margin: 15px; */
+}
